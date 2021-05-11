@@ -1,0 +1,13 @@
+*{
+  padding: 10px 10px 10px 10px;
+  /* align-items: center; */
+  /* align-text:center; */
+}
+body, html{
+  height:100vh;
+  font-family: helvetica;
+}
+.btn{
+  background-color:lightblue;
+  margin-right:10px;
+}
